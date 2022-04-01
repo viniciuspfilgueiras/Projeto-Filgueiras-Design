@@ -36,7 +36,7 @@ body {
 /* BANNER PRINCIPAL */
 
 #imagem-principal {
-    background-image: url(/img/imagem-banner-principal.jpg);
+    background: url(/img/imagem-banner-principal.jpg);
     background-repeat: no-repeat;
     background-position: center;
     height: 100rem;
