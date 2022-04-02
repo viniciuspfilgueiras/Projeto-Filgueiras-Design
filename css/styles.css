@@ -37,10 +37,10 @@ body {
 
 #imagem-principal {
     background: url(/img/imagem-banner-principal.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 100rem;
-    z-index: 10;
 }
 
 #imagem-principal .projetando-futuros {
